@@ -7,3 +7,6 @@
 [submodule "lib/Adafruit-GFX-Library"]
 	path = lib/Adafruit-GFX-Library
 	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "lib/Adafruit-BusIO"]
+	path = lib/Adafruit-BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO.git
